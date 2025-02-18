@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MlEMQllrVDlvY3US116bDLi11zELRWd8Si/wWLh+Lzw=",
+  "Source": "CareNirvana.Service.API",
+  "BasePath": "_content/CareNirvana.Service.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
