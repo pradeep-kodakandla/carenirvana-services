@@ -21,10 +21,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CareNirvana.Service.Application\CareNirvana.Service.Application.csproj" />
     <ProjectReference Include="..\CareNirvana.Service.Common\CareNirvana.Service.Common.csproj" />
     <ProjectReference Include="..\CareNirvana.Service.Domain\CareNirvana.Service.Domain.csproj" />
-    <ProjectReference Include="..\iCare4H.Service.Common\CareNirvana.Service.Common.csproj" />
-    <ProjectReference Include="..\iCare4H.Service.Domain\CareNirvana.Service.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>

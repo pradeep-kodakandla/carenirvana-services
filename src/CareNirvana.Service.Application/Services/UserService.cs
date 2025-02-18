@@ -1,12 +1,11 @@
-﻿using CareNirvana.Service.Domain.Interface;
+﻿using CareNirvana.Service.Application.Interfaces;
 using CareNirvana.Service.Domain.Model;
-using CareNirvana.Service.Infrastructure.Repository;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace CareNirvana.Service.Application
+namespace CareNirvana.Service.Application.Services
 {
     public class UserService : IUserService
     {

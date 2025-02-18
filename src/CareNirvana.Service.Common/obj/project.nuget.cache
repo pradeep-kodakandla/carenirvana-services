@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HODPXRqWX5s=",
+  "dgSpecHash": "XXbZMhJzzn0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
+  "projectFilePath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

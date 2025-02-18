@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CareNirvana\\carenirvana-services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1492A39-E636-484B-881B-14A61DF69854}|src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj|c:\\carenirvana\\carenirvana-services\\src\\carenirvana.service.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1492A39-E636-484B-881B-14A61DF69854}|src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj|solutionrelative:src\\carenirvana.service.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7ED9D-B8EA-49DF-9F6B-19C23851EF67}|src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj|c:\\carenirvana\\carenirvana-services\\src\\carenirvana.service.api\\controllers\\authentication\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B7ED9D-B8EA-49DF-9F6B-19C23851EF67}|src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj|solutionrelative:src\\carenirvana.service.api\\controllers\\authentication\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7ED9D-B8EA-49DF-9F6B-19C23851EF67}|src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj|c:\\carenirvana\\carenirvana-services\\src\\carenirvana.service.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B7ED9D-B8EA-49DF-9F6B-19C23851EF67}|src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj|solutionrelative:src\\carenirvana.service.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C942BD5F-71BC-45D3-B15C-1667E59A7874}|src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj|c:\\carenirvana\\carenirvana-services\\src\\carenirvana.service.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C942BD5F-71BC-45D3-B15C-1667E59A7874}|src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj|solutionrelative:src\\carenirvana.service.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1492A39-E636-484B-881B-14A61DF69854}|src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj|c:\\carenirvana\\carenirvana-services\\src\\carenirvana.service.infrastructure\\repository\\configadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1492A39-E636-484B-881B-14A61DF69854}|src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj|solutionrelative:src\\carenirvana.service.infrastructure\\repository\\configadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7ED9D-B8EA-49DF-9F6B-19C23851EF67}|src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj|c:\\carenirvana\\carenirvana-services\\src\\carenirvana.service.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18B7ED9D-B8EA-49DF-9F6B-19C23851EF67}|src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj|solutionrelative:src\\carenirvana.service.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7ED9D-B8EA-49DF-9F6B-19C23851EF67}|src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj|c:\\carenirvana\\carenirvana-services\\src\\carenirvana.service.api\\controllers\\admin\\configadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B7ED9D-B8EA-49DF-9F6B-19C23851EF67}|src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj|solutionrelative:src\\carenirvana.service.api\\controllers\\admin\\configadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C942BD5F-71BC-45D3-B15C-1667E59A7874}|src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj|c:\\carenirvana\\carenirvana-services\\src\\carenirvana.service.application\\services\\configadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C942BD5F-71BC-45D3-B15C-1667E59A7874}|src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj|solutionrelative:src\\carenirvana.service.application\\services\\configadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CareNirvana.Service.API\\appsettings.json",
+              "ToolTip": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\appsettings.json",
+              "RelativeToolTip": "src\\CareNirvana.Service.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T06:14:38.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigAdminRepository.cs",
+              "DocumentMoniker": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\Repository\\ConfigAdminRepository.cs",
+              "RelativeDocumentMoniker": "src\\CareNirvana.Service.Infrastructure\\Repository\\ConfigAdminRepository.cs",
+              "ToolTip": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\Repository\\ConfigAdminRepository.cs",
+              "RelativeToolTip": "src\\CareNirvana.Service.Infrastructure\\Repository\\ConfigAdminRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:13:31.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigAdminController.cs",
+              "DocumentMoniker": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\Controllers\\Admin\\ConfigAdminController.cs",
+              "RelativeDocumentMoniker": "src\\CareNirvana.Service.API\\Controllers\\Admin\\ConfigAdminController.cs",
+              "ToolTip": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\Controllers\\Admin\\ConfigAdminController.cs",
+              "RelativeToolTip": "src\\CareNirvana.Service.API\\Controllers\\Admin\\ConfigAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:12:01.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\CareNirvana.Service.Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "src\\CareNirvana.Service.Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:04:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CareNirvana.Service.API\\Program.cs",
+              "ToolTip": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\Program.cs",
+              "RelativeToolTip": "src\\CareNirvana.Service.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:01:37.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\Controllers\\Authentication\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\CareNirvana.Service.API\\Controllers\\Authentication\\UserController.cs",
+              "ToolTip": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\Controllers\\Authentication\\UserController.cs",
+              "RelativeToolTip": "src\\CareNirvana.Service.API\\Controllers\\Authentication\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:01:24.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigAdminService.cs",
+              "DocumentMoniker": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\Services\\ConfigAdminService.cs",
+              "RelativeDocumentMoniker": "src\\CareNirvana.Service.Application\\Services\\ConfigAdminService.cs",
+              "ToolTip": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\Services\\ConfigAdminService.cs",
+              "RelativeToolTip": "src\\CareNirvana.Service.Application\\Services\\ConfigAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:57:08.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\CareNirvana.Service.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "src\\CareNirvana.Service.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:55:55.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

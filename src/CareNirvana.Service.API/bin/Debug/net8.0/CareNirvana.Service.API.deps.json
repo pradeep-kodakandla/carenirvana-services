@@ -10,6 +10,7 @@
         "dependencies": {
           "CareNirvana.Service.Application": "1.0.0",
           "CareNirvana.Service.Domain": "1.0.0",
+          "CareNirvana.Service.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.0",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0",
           "Swashbuckle.AspNetCore": "6.6.2",
@@ -376,7 +377,6 @@
         "dependencies": {
           "CareNirvana.Service.Common": "1.0.0",
           "CareNirvana.Service.Domain": "1.0.0",
-          "CareNirvana.Service.Infrastructure": "1.0.0",
           "System.IdentityModel.Tokens.Jwt": "8.3.0"
         },
         "runtime": {
@@ -404,6 +404,7 @@
       },
       "CareNirvana.Service.Infrastructure/1.0.0": {
         "dependencies": {
+          "CareNirvana.Service.Application": "1.0.0",
           "CareNirvana.Service.Common": "1.0.0",
           "CareNirvana.Service.Domain": "1.0.0",
           "Npgsql": "9.0.2",

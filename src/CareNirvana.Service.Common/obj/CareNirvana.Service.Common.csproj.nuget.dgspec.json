@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {}
+    "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {
+    "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
+        "projectUniqueName": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
         "projectName": "CareNirvana.Service.Common",
-        "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
+        "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
         "packagesPath": "C:\\Users\\PradeepKodakandla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\obj\\",
+        "outputPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

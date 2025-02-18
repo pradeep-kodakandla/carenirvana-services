@@ -1,9 +1,9 @@
-﻿using CareNirvana.Service.Domain.Interface;
-using iCare4H.DataAccess;
+﻿using iCare4H.DataAccess;
 using CareNirvana.Service.Domain.Model;
 using System.Collections.Generic;
 using System.Data;
-using Npgsql; // PostgreSQL library
+using Npgsql;
+using CareNirvana.Service.Application.Interfaces; // PostgreSQL library
 
 namespace CareNirvana.Service.Infrastructure.Repository
 {

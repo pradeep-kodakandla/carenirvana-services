@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj": {}
+    "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj": {
+    "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj",
+        "projectUniqueName": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj",
         "projectName": "CareNirvana.Service.API",
-        "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj",
+        "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj",
         "packagesPath": "C:\\Users\\PradeepKodakandla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.API\\obj\\",
+        "outputPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj": {
-                "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj"
+              "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj": {
+                "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj"
               },
-              "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
-                "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj"
+              "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
+                "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj"
+              },
+              "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj": {
+                "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj"
               }
             }
           }
@@ -98,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj": {
+    "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj",
+        "projectUniqueName": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj",
         "projectName": "CareNirvana.Service.Application",
-        "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj",
+        "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj",
         "packagesPath": "C:\\Users\\PradeepKodakandla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Application\\obj\\",
+        "outputPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -127,14 +130,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {
-                "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj"
+              "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {
+                "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj"
               },
-              "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
-                "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj"
-              },
-              "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj"
+              "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
+                "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj"
               }
             }
           }
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {
+    "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
+        "projectUniqueName": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
         "projectName": "CareNirvana.Service.Common",
-        "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
+        "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj",
         "packagesPath": "C:\\Users\\PradeepKodakandla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\obj\\",
+        "outputPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -246,14 +246,14 @@
         }
       }
     },
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
+    "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj",
+        "projectUniqueName": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj",
         "projectName": "CareNirvana.Service.Domain",
-        "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj",
+        "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj",
         "packagesPath": "C:\\Users\\PradeepKodakandla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\obj\\",
+        "outputPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -312,14 +312,14 @@
         }
       }
     },
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj": {
+    "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj",
+        "projectUniqueName": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj",
         "projectName": "CareNirvana.Service.Infrastructure",
-        "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj",
+        "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\PradeepKodakandla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Infrastructure\\obj\\",
+        "outputPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -341,17 +341,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {
-                "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj"
+              "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj": {
+                "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj"
               },
-              "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
-                "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj"
+              "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj": {
+                "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Common\\CareNirvana.Service.Common.csproj"
               },
-              "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Common\\CareNirvana.Service.Common.csproj": {
-                "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Common\\CareNirvana.Service.Common.csproj"
-              },
-              "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Domain\\CareNirvana.Service.Domain.csproj": {
-                "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Domain\\CareNirvana.Service.Domain.csproj"
+              "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
+                "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj"
               }
             }
           }
@@ -381,138 +378,6 @@
               "version": "[9.0.2, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Common\\CareNirvana.Service.Common.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Common\\CareNirvana.Service.Common.csproj",
-        "projectName": "CareNirvana.Service.Common",
-        "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Common\\CareNirvana.Service.Common.csproj",
-        "packagesPath": "C:\\Users\\PradeepKodakandla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Common\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\PradeepKodakandla\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Domain\\CareNirvana.Service.Domain.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Domain\\CareNirvana.Service.Domain.csproj",
-        "projectName": "CareNirvana.Service.Domain",
-        "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Domain\\CareNirvana.Service.Domain.csproj",
-        "packagesPath": "C:\\Users\\PradeepKodakandla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\iCare4H.Service.Domain\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\PradeepKodakandla\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",

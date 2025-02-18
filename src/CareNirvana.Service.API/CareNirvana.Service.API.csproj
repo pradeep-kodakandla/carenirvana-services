@@ -17,13 +17,13 @@
 
   <ItemGroup>
     <Folder Include="Controllers\Config\" />
-    <Folder Include="Controllers\Admin\" />
     <Folder Include="Controllers\User\" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\CareNirvana.Service.Application\CareNirvana.Service.Application.csproj" />
     <ProjectReference Include="..\CareNirvana.Service.Domain\CareNirvana.Service.Domain.csproj" />
+    <ProjectReference Include="..\CareNirvana.Service.Infrastructure\CareNirvana.Service.Infrastructure.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.0" />
   </ItemGroup>
 

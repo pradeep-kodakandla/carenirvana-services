@@ -13,7 +13,6 @@
   <ItemGroup>
     <ProjectReference Include="..\CareNirvana.Service.Common\CareNirvana.Service.Common.csproj" />
     <ProjectReference Include="..\CareNirvana.Service.Domain\CareNirvana.Service.Domain.csproj" />
-    <ProjectReference Include="..\CareNirvana.Service.Infrastructure\CareNirvana.Service.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-﻿using CareNirvana.Service.Domain.Interface;
+﻿using CareNirvana.Service.Application.Interfaces;
 using CareNirvana.Service.Domain.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CareNirvana.Service.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df690a9e4d837fa681db294d45899dd3cda81c1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0cf31087866dac60cb8f0050cac25538d064ee2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CareNirvana.Service.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CareNirvana.Service.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

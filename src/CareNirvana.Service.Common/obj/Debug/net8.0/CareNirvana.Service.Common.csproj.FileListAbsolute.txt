@@ -22,3 +22,15 @@ C:\Users\PradeepKodakandla\Documents\icare4hservice\src\CareNirvana.Service.Comm
 C:\Users\PradeepKodakandla\Documents\icare4hservice\src\CareNirvana.Service.Common\obj\Debug\net8.0\refint\CareNirvana.Service.Common.dll
 C:\Users\PradeepKodakandla\Documents\icare4hservice\src\CareNirvana.Service.Common\obj\Debug\net8.0\CareNirvana.Service.Common.pdb
 C:\Users\PradeepKodakandla\Documents\icare4hservice\src\CareNirvana.Service.Common\obj\Debug\net8.0\ref\CareNirvana.Service.Common.dll
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\bin\Debug\net8.0\CareNirvana.Service.Common.deps.json
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\bin\Debug\net8.0\CareNirvana.Service.Common.dll
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\bin\Debug\net8.0\CareNirvana.Service.Common.pdb
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\obj\Debug\net8.0\CareNirvana.Service.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\obj\Debug\net8.0\CareNirvana.Service.Common.AssemblyInfoInputs.cache
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\obj\Debug\net8.0\CareNirvana.Service.Common.AssemblyInfo.cs
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\obj\Debug\net8.0\CareNirvana.Service.Common.csproj.CoreCompileInputs.cache
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\obj\Debug\net8.0\CareNirvana.Service.Common.sourcelink.json
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\obj\Debug\net8.0\CareNirvana.Service.Common.dll
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\obj\Debug\net8.0\refint\CareNirvana.Service.Common.dll
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\obj\Debug\net8.0\CareNirvana.Service.Common.pdb
+C:\CareNirvana\carenirvana-services\src\CareNirvana.Service.Common\obj\Debug\net8.0\ref\CareNirvana.Service.Common.dll

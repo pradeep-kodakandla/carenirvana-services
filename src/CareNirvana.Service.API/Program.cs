@@ -2,8 +2,8 @@
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Swashbuckle.AspNetCore.Filters;
-using CareNirvana.Service.Domain.Interface;
-using CareNirvana.Service.Application;
+using CareNirvana.Service.Application.Services;
+using CareNirvana.Service.Application.Interfaces;
 using CareNirvana.Service.Infrastructure.Repository;
 using iCare4H.DataAccess;
 
@@ -53,6 +53,11 @@ services.AddScoped<IUserRepository, UserRepository>();
 
 // 🔹 Register Services
 services.AddScoped<IUserService, UserService>();
+
+// Register application services
+builder.Services.AddScoped<IConfigAdminService, ConfigAdminService>();
+builder.Services.AddScoped<IConfigAdminRepository, ConfigAdminRepository>();
+
 
 builder.Services.AddControllers()
     .AddJsonOptions(options =>

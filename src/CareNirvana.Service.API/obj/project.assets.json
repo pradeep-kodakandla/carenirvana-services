@@ -591,7 +591,6 @@
         "dependencies": {
           "CareNirvana.Service.Common": "1.0.0",
           "CareNirvana.Service.Domain": "1.0.0",
-          "CareNirvana.Service.Infrastructure": "1.0.0",
           "System.IdentityModel.Tokens.Jwt": "8.3.0"
         },
         "compile": {
@@ -625,6 +624,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "CareNirvana.Service.Application": "1.0.0",
           "CareNirvana.Service.Common": "1.0.0",
           "CareNirvana.Service.Domain": "1.0.0",
           "Npgsql": "9.0.2",
@@ -1802,6 +1802,7 @@
     "net8.0": [
       "CareNirvana.Service.Application >= 1.0.0",
       "CareNirvana.Service.Domain >= 1.0.0",
+      "CareNirvana.Service.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.21.0",
       "Swashbuckle.AspNetCore >= 6.6.2",
@@ -1815,11 +1816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj",
+      "projectUniqueName": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj",
       "projectName": "CareNirvana.Service.API",
-      "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj",
+      "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\CareNirvana.Service.API.csproj",
       "packagesPath": "C:\\Users\\PradeepKodakandla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.API\\obj\\",
+      "outputPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1841,11 +1842,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj": {
-              "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj"
+            "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj": {
+              "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Application\\CareNirvana.Service.Application.csproj"
             },
-            "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
-              "projectPath": "C:\\Users\\PradeepKodakandla\\Documents\\icare4hservice\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj"
+            "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj": {
+              "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Domain\\CareNirvana.Service.Domain.csproj"
+            },
+            "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj": {
+              "projectPath": "C:\\CareNirvana\\carenirvana-services\\src\\CareNirvana.Service.Infrastructure\\CareNirvana.Service.Infrastructure.csproj"
             }
           }
         }
