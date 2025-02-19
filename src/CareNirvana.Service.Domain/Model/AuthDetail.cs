@@ -9,7 +9,7 @@ namespace CareNirvana.Service.Domain.Model
     public class AuthDetail
     {
         public int Id { get; set; }
-        public string Data { get; set; }
+        public List<object> Data { get; set; } // Change from string to List<object>
         public DateTime CreatedOn { get; set; }
     }
 }

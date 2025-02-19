@@ -1,12 +1,10 @@
 ﻿using CareNirvana.Service.Application.Interfaces;
 using CareNirvana.Service.Domain.Model;
 using Microsoft.Extensions.Configuration;
+using Newtonsoft.Json;
 using Npgsql;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using NpgsqlTypes;
+
 
 namespace CareNirvana.Service.Infrastructure.Repository
 {
@@ -22,18 +20,32 @@ namespace CareNirvana.Service.Infrastructure.Repository
 
         public async Task SaveAsync(AuthDetail authDetail)
         {
-            using (var connection = new NpgsqlConnection(_connectionString))
+            try
             {
-                await connection.OpenAsync();
-                using (var command = new NpgsqlCommand(
-                    "INSERT INTO authdetail (data, createdon) VALUES (@data, @createdon)", connection))
+                using (var connection = new NpgsqlConnection(_connectionString))
                 {
-                    command.Parameters.AddWithValue("@data", authDetail.Data);
-                    command.Parameters.AddWithValue("@createdon", authDetail.CreatedOn);
+                    await connection.OpenAsync();
+                    using (var command = new NpgsqlCommand(
+                        "INSERT INTO authdetailsave (data, createdon) VALUES (@data, @createdon)", connection))
+                    {
+                        // Ensure the data is inserted as a JSONB array
+                        command.Parameters.AddWithValue("@data", NpgsqlDbType.Jsonb | NpgsqlDbType.Array, authDetail.Data.ToArray());
 
-                    await command.ExecuteNonQueryAsync();
+                        command.Parameters.AddWithValue("@createdon", authDetail.CreatedOn);
+
+                        await command.ExecuteNonQueryAsync();
+                    }
                 }
             }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Database Error: {ex.Message}");
+                throw;
+            }
         }
+
+
+
+
     }
 }

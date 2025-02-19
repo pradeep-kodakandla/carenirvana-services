@@ -17,11 +17,11 @@ namespace CareNirvana.Service.Application.UseCases
             _repository = repository;
         }
 
-        public async Task ExecuteAsync(string jsonData)
+        public async Task ExecuteAsync(AuthDetail jsonData)
         {
             var authDetail = new AuthDetail
             {
-                Data = jsonData,
+                Data = jsonData.Data,
                 CreatedOn = System.DateTime.UtcNow
             };
 

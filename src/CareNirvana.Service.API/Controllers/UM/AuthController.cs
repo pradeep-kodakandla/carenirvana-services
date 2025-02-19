@@ -26,11 +26,27 @@ namespace CareNirvana.Service.API.Controllers
         }
 
         [HttpPost("save")]
-        public async Task<IActionResult> SaveAuthDetail([FromBody] string jsonData)
+        public async Task<IActionResult> SaveAuthDetail([FromBody] AuthDetail authDetail)
         {
-            await _saveAuthDetailCommand.ExecuteAsync(jsonData);
-            return Ok("Data saved successfully");
+            try
+            {
+                if (authDetail == null || authDetail.Data == null || !authDetail.Data.Any())
+                {
+                    return BadRequest("Invalid data received");
+                }
+
+                await _saveAuthDetailCommand.ExecuteAsync(authDetail);
+                return Ok("Data saved successfully");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error saving auth detail: {ex.Message}");
+                return StatusCode(500, $"Internal Server Error: {ex.Message}");
+            }
         }
+
+
+
     }
 }
 
