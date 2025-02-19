@@ -5,7 +5,8 @@ using Swashbuckle.AspNetCore.Filters;
 using CareNirvana.Service.Application.Services;
 using CareNirvana.Service.Application.Interfaces;
 using CareNirvana.Service.Infrastructure.Repository;
-using iCare4H.DataAccess;
+using CareNirvana.DataAccess;
+using CareNirvana.Service.Application.UseCases;
 
 var builder = WebApplication.CreateBuilder(args);
 var services = builder.Services;
@@ -53,6 +54,15 @@ services.AddScoped<IUserRepository, UserRepository>();
 
 // 🔹 Register Services
 services.AddScoped<IUserService, UserService>();
+
+// Register Repositories
+builder.Services.AddScoped<IAuthTemplateRepository, AuthTemplateRepository>();
+builder.Services.AddScoped<IAuthDetailRepository, AuthDetailRepository>();
+
+// Register Use Cases
+builder.Services.AddTransient<GetAuthTemplatesQuery>();
+builder.Services.AddTransient<SaveAuthDetailCommand>();
+
 
 // Register application services
 builder.Services.AddScoped<IConfigAdminService, ConfigAdminService>();

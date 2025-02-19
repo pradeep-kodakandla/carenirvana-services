@@ -2,7 +2,7 @@
 using Npgsql;
 using iCare4H.Common;
 
-namespace iCare4H.DataAccess.Impl.Postgres
+namespace CareNirvana.DataAccess.Impl.Postgres
 {
     public class PostgresDataLayer : IAbstractDataLayer
     {

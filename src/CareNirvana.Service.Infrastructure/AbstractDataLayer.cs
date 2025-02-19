@@ -4,7 +4,7 @@ using System.Data;
 using Microsoft.Extensions.Configuration;
 using Npgsql;
 
-namespace iCare4H.DataAccess
+namespace CareNirvana.DataAccess
 {
     public class AbstractDataLayer : IAbstractDataLayer
     {

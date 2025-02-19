@@ -1,4 +1,4 @@
-﻿using iCare4H.DataAccess;
+﻿using CareNirvana.DataAccess;
 using CareNirvana.Service.Domain.Model;
 
 namespace CareNirvana.Service.Infrastructure.Repository

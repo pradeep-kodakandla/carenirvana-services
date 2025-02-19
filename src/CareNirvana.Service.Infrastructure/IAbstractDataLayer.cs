@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace iCare4H.DataAccess
+namespace CareNirvana.DataAccess
 {
     public interface IAbstractDataLayer
     {
